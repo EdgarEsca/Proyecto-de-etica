@@ -1,0 +1,35 @@
+#footer{
+ background-color: green;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+#Main img{
+ max-height: 88vh;
+ object-fit: cover;
+ filter: grayscale(70%);
+}
+#carousel{
+    position: relative;
+}
+.carousel-inner #overlay{
+ position: flex;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ background-color: rgba(0, 0, 0, a).5;
+ color:white;
+ text-shadow: 3px 0px 0px black;
+}
+.carousel-inner p {
+    color: white;
+    text-shadow: 1.5px 1px 1px black;
+}
+.carousel-inner h5{
+    color: white;
+    text-shadow: 1.5px 1px 1px black;
+}
