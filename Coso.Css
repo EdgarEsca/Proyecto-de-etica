@@ -33,3 +33,15 @@ font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-shadow: 1.5px 1px 1px black;
 }
+#Main #Ob{
+    background-color: #088A4B;
+    text-align: center;
+    color:white
+}
+#Main #boton{
+    background-color: #088A4B;
+}
+#Main #boton #ela{
+    color: white;
+    text-decoration: none;
+}
